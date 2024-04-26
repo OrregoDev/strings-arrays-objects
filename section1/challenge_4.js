@@ -1,5 +1,7 @@
 // Event managment system
 
+// Falta por inicializar programa
+
 let events = [];
 
 function crearEvento() {

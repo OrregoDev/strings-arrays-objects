@@ -1,5 +1,7 @@
 // Inventory management system
 
+// Falta por inicializar programa
+
 let products = [];
 
 function creatProduct() {
